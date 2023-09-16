@@ -12,9 +12,9 @@ print("I'm student");
 
 print("\"I'm\"\n\"\"learning\"\"\n\"\"Python\"\"");
 
-print(int('500', 8));
+print(0o764);
 
-print(int('777', 16));
+print(0x309);
 
 print("Programming***Essentials***in...Python")
 
